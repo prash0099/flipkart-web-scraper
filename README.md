@@ -64,7 +64,7 @@ The output will be saved in a file named `flipkart_scraped_product_data.csv` wit
 - The script uses `try-except` blocks to handle cases where some product details (name, price, or link) may be missing.
 
 ## Disclaimer
-- **Amazon's Terms of Service:** Web scraping may violate Amazon’s terms of service, and it's important to respect the site's rules. This project is for educational purposes only.
+- **Flipkart's Terms of Service:** Web scraping may violate Flipkart’s terms of service, and it's important to respect the site's rules. This project is for educational purposes only.
 - **Legal Note**: Make sure you understand the legal and ethical implications of web scraping before using this project for anything other than learning.
 
 ## License
