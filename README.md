@@ -68,4 +68,4 @@ The output will be saved in a file named `flipkart_scraped_product_data.csv` wit
 - **Legal Note**: Make sure you understand the legal and ethical implications of web scraping before using this project for anything other than learning.
 
 ## License
-- This project is licensed under the MIT License - see the [LICENSE](https://github.com/prash0099/amazon-web-scraper/blob/main/MIT%20License) file for details.
+- This project is licensed under the MIT License - see the [LICENSE](https://github.com/prash0099/flipkart-web-scraper/blob/main/MIT%20License) file for details.
