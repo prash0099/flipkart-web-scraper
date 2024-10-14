@@ -27,8 +27,8 @@ pip install selenium
 ### How to Use
 ### 1. **Clone the repository**:
 ```
-git clone https://github.com/prash0099/amazon-web-scraper.git
-cd amazon-web-scraper
+git clone https://github.com/prash0099/flipkart-web-scraper.git
+cd flipkart-web-scraper
 ```
 
 ### 2. **Install dependencies**: 
@@ -44,7 +44,7 @@ pip install selenium
 ### 4. **Run the Script**: 
 Run the script by using the following command:
 ```
-python scraping_amazon.py
+python 'scraping flipkart.py'
 ```
 The script will scrape product data for a specified product (in this case, laptops) and save it to a CSV file (`scraped_product_data.csv`).
 
