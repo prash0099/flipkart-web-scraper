@@ -1,9 +1,9 @@
 # Flipkart Web Scraper
 
-This Python project scrapes product information from Amazon, including product names, prices, and links. The data is collected using **Selenium** and saved into a CSV file for easy analysis.
+This Python project scrapes product information from Flipkart, including product names, prices, and links. The data is collected using **Selenium** and saved into a CSV file for easy analysis.
 
 ## Features
-- Scrapes product names, prices, and links from Amazon search results.
+- Scrapes product names, prices, and links from Flipkart search results.
 - Navigates through multiple pages of search results.
 - Stores the data in a CSV file.
 
